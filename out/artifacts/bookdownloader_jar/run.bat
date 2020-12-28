@@ -1,0 +1,1 @@
+java -splash:launcher.png -jar bookdownloader.jar

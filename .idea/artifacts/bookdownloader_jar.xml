@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="bookdownloader:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/bookdownloader_jar</output-path>
+    <root id="archive" name="bookdownloader.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="bookdownloader" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../fastjson-1.2.62.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../okhttp-3.2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../okio-1.9.0.jar" path-in-jar="/" />
+      <element id="dir-copy" path="$PROJECT_DIR$/res" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../jfoenix-8.0.8.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
