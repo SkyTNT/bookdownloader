@@ -1,0 +1,1 @@
+{"233809":{"isDownloaded":true,"lastReadChap":5185202,"lastReadTime":"2021-04-17T11:11:06","lastDownloadChap":5215879},"222494":{"lastReadChap":4801218,"lastReadTime":"2021-04-17T11:10:34","lastDownloadChap":4801218},"210448":{"lastReadChap":5143278,"lastReadTime":"2021-04-17T11:10:49","lastDownloadChap":5143278}}
